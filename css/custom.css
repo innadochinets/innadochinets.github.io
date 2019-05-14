@@ -204,14 +204,14 @@
 }
 
 .demo-1 .sl-slide blockquote {
+	display: grid;
 	position: absolute;
-	width: 100%;
-	text-align: center;
+	width: 50%;
+	text-align: right;
 	left: 387px;
-	font-weight: 400;
 	font-size: 20px;
 	line-height: 16px;
-	height: 70px;
+	height: 99px;
 	z-index: 2;
 	bottom: 50%;
 	margin: 0 0 -300px 0;
